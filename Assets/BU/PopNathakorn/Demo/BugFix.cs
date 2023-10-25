@@ -6,6 +6,7 @@ public class BugFix : MonoBehaviour
     void Start()
     {
         // Fix bug 2nd time
+        // Fix scene rendering
     }
 
     // Update is called once per frame
